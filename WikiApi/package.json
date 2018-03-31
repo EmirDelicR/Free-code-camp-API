@@ -1,0 +1,19 @@
+{
+  "name": "wikiapi",
+  "version": "1.0.0",
+  "description": "Api for Wiki",
+  "main": "test.html",
+  "scripts": {
+    "test": "build"
+  },
+  "keywords": [
+    "wiki",
+    "api"
+  ],
+  "author": "Emir Delic",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.1",
+    "typescript": "^2.7.2"
+  }
+}

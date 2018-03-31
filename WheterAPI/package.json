@@ -1,0 +1,20 @@
+{
+  "name": "wheterapi",
+  "version": "1.0.0",
+  "description": "\"For free code camp\"",
+  "main": "test.html",
+  "scripts": {
+    "test": "build"
+  },
+  "keywords": [
+    "wheter",
+    "api"
+  ],
+  "author": "Emir Delic",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.1",
+    "tsc-init": "^2.1.0",
+    "typescript": "^2.7.2"
+  }
+}
