@@ -1,1 +1,1 @@
-# FreeCOdeAPI
+# Free Code Camp API
